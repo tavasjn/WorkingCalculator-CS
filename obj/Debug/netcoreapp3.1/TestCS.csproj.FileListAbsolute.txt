@@ -1,0 +1,11 @@
+/Users/tavasneuwirth/Desktop/Projects/TestCS/bin/Debug/netcoreapp3.1/TestCS
+/Users/tavasneuwirth/Desktop/Projects/TestCS/bin/Debug/netcoreapp3.1/TestCS.deps.json
+/Users/tavasneuwirth/Desktop/Projects/TestCS/bin/Debug/netcoreapp3.1/TestCS.runtimeconfig.json
+/Users/tavasneuwirth/Desktop/Projects/TestCS/bin/Debug/netcoreapp3.1/TestCS.runtimeconfig.dev.json
+/Users/tavasneuwirth/Desktop/Projects/TestCS/bin/Debug/netcoreapp3.1/TestCS.dll
+/Users/tavasneuwirth/Desktop/Projects/TestCS/bin/Debug/netcoreapp3.1/TestCS.pdb
+/Users/tavasneuwirth/Desktop/Projects/TestCS/obj/Debug/netcoreapp3.1/TestCS.csprojAssemblyReference.cache
+/Users/tavasneuwirth/Desktop/Projects/TestCS/obj/Debug/netcoreapp3.1/TestCS.AssemblyInfoInputs.cache
+/Users/tavasneuwirth/Desktop/Projects/TestCS/obj/Debug/netcoreapp3.1/TestCS.AssemblyInfo.cs
+/Users/tavasneuwirth/Desktop/Projects/TestCS/obj/Debug/netcoreapp3.1/TestCS.dll
+/Users/tavasneuwirth/Desktop/Projects/TestCS/obj/Debug/netcoreapp3.1/TestCS.pdb
